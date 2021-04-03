@@ -12,8 +12,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>211</width>
-    <height>212</height>
+    <width>179</width>
+    <height>144</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -90,14 +90,14 @@
      <item>
       <layout class="QHBoxLayout" name="horizontalLayout_3">
        <item>
-        <widget class="QLabel" name="label">
+        <widget class="QLabel" name="lastLabel">
          <property name="text">
           <string>Last:</string>
          </property>
         </widget>
        </item>
        <item>
-        <widget class="QFrame" name="frame">
+        <widget class="QFrame" name="colorFrame">
          <property name="frameShape">
           <enum>QFrame::Box</enum>
          </property>
@@ -116,7 +116,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>211</width>
+     <width>179</width>
      <height>21</height>
     </rect>
    </property>
